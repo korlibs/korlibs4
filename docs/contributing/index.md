@@ -9,29 +9,25 @@ priority: 1000
 
 ## Code
 
-All new development happens in the `korge` repository:
+All new development happens in the `korlibs4` repository:
 
-<https://github.com/korlibs/korge>
+<https://github.com/korlibs/korlibs4>
 
 You can fork the repository, make changes and create a PR proposing them.
 
 ### Building
 
-You can build `korge` with:
+You can build `korlibs4` with:
 
 ```kotlin
-git clone https://github.com/korlibs/korge.git
-cd korge
+git clone https://github.com/korlibs/korlibs4.git
+cd korlibs4
 ./gradlew publishToMavenLocal
 ```
 
-This publishes all the libraries with the version `2.0.0.999` in the `~/.m2` folder.
+This publishes all the libraries with the version `999.0.0.999` in the `~/.m2` folder.
 
 To make compilation faster, you can add `org.gradle.parallel=true` to your `~/.gradle/gradle.properties` file (crete it if it doesn't exist).
-
-### Using `korge-next` in a KorGE project
-
-To use korge-next in a KorGE project, just build and publish it locally and replace your version with `2.0.0.999`.
 
 ## Documentation
 
@@ -44,5 +40,5 @@ so you can propose a change.
 
 All the documentation is hosted at github using github pages and [jekyll](https://jekyllrb.com/):
 
-<https://github.com/korlibs/korge/tree/main/docs>
+<https://github.com/korlibs/korlibs4/tree/main/docs>
 

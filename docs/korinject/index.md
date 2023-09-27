@@ -7,7 +7,7 @@ priority: 970
 
 Portable Kotlin Common library to do asynchronous dependency injection.
 
-[https://github.com/korlibs/korge/tree/main/korinject](https://github.com/korlibs/korge/tree/main/korinject)
+<https://github.com/korlibs/korlibs4/tree/main/korinject>
 
 {% include stars.html project="korge" central="com.soywiz.korlibs.korinject/korinject" %}
 
