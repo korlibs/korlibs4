@@ -9,10 +9,10 @@ exclude:
   - ".vscode"
   - "@old"
 baseurl: ""
-url: "https://korlibs.soywiz.com"
-doc_base_url: https://github.com/korlibs/korlibs.github.io
+url: "https://korlibs4.korlibs.github.io"
+doc_base_url: https://github.com/korlibs/korlibs4/docs
 blog_url: ""
-project_url: https://github.com/korlibs
+project_url: https://github.com/korlibs/korlibs4
 google_search_id: 001447907640164080602:ej0h0w0ufr0
 github_username:  korlibs
 # DISQUS is super intrusive lately

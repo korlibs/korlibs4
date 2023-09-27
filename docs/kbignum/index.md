@@ -7,7 +7,7 @@ priority: 200
 
 Library for dealing with Big Numbers both integral and decimal
 
-<https://github.com/korlibs/korge/tree/main/kbignum/>{:target=_blank}
+<https://github.com/korlibs/korlibs4/tree/main/kbignum/>{:target=_blank}
 
 {% include stars.html project="korge" central="com.soywiz.korlibs.kbignum/kbignum" %}
 

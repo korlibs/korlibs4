@@ -12,7 +12,7 @@ useMermaid: true
 
 It stands for **K**otlin c**OR**outines **LIB**raries. Though not all its library components have asynchronous parts.
 
-It is suitable for building [backend servers or cli tools that run on JVM or Node.JS](/korio) and [desktop, web and mobile games](/korge), including [**emulators**](https://github.com/kpspemu/kpspemu), and [GUI applications](/korui).
+It is suitable for building [backend servers or cli tools that run on JVM or Node.JS](/korio).
 
 It's philosophy is: simple, small, powerful, cohesive, enjoyable, portable, multiplatform and asynchronous.
 
@@ -32,7 +32,6 @@ korio["fa:fa-save korio"]
 korau["fa:fa-music korau"]
 korim["fa:fa-image korim"]
 korma["fa:fa-calculator korma"]
-korge["fa:fa-gamepad korge"]
 
 kotlinx.coroutines --> korcoroutines
 
@@ -50,13 +49,6 @@ jna --> kmem
 korma --> korim
 korio --> korim
 
-korim --> korgw
-
-korgw --> korge
-korau --> korge
-korinject --> korge
-korte --> korge
-
 korma --> korau
 korio --> korau
 
@@ -72,6 +64,5 @@ click korau href "/korau/"
 click korim href "/korim/"
 click korinject href "/korinject/"
 click korte href "/korte/"
-click korge href "/korge/"
 
 </pre>
