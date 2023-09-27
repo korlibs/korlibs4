@@ -9,7 +9,7 @@ exclude:
   - ".vscode"
   - "@old"
 baseurl: ""
-url: "https://korlibs4.korlibs.github.io"
+url: "https://korlibs.github.io/korlibs4/"
 doc_base_url: https://github.com/korlibs/korlibs4/docs
 blog_url: ""
 project_url: https://github.com/korlibs/korlibs4
