@@ -16,7 +16,7 @@ pluginManagement {
 
 val enableMetalPlayground: String by settings
 
-rootProject.name = "${rootDir.name}-root"
+rootProject.name = "korlibs4"
 
 fun isPropertyTrue(name: String): Boolean {
     return System.getenv(name) == "true" || System.getProperty(name) == "true"
